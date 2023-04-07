@@ -1,8 +1,8 @@
 ### Olá, meu nome é Ícaro 👋
 <div>
-  <a href="https://github.com/TiagoQueiroz-Dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoQueiroz-Dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoQueiroz-Dev&layout=compact&langs_count=16&theme=dracula"/>
+  <a href="https://github.com/IcaroEstrela">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IcaroEstrela&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IcaroEstrela&layout=compact&langs_count=16&theme=dracula"/>
 </div>
   <h2>Linguagens Aprendidas</h2>
 <div style="display: inline_block">
@@ -15,7 +15,7 @@
 </div>
   <h2>Contato</h2>
 <div>
-  Gmail: Tiago.Dev.Queiroz@gmail.com<p>Telefone: +55(71) 98874-4550
+  Gmail: icaroestrela071@gmail.com<p>Telefone: +55(71)99732-5844
 </div>
 
   ![Snake animation](https://github.com/TiagoQueiroz-Dev/TiagoQueiroz-Dev/blob/output/github-contribution-grid-snake.svg)
